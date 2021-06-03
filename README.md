@@ -1,2 +1,3 @@
 # MIPS
-Exercises in MIPS assembly
+
+Exercises in MIPS assembly.
